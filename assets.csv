@@ -1,0 +1,64 @@
+application,ip,hostname,dep
+Exchange Server,172.16.0.20,mail.fakecomp.com,TI
+iOS,10.0.0.200,fake-cellphone,Vendas
+Windows,10.0.0.150,desktop01,Vendas
+Chromium,10.0.0.150,desktop01,Vendas
+Firefox,10.0.0.150,desktop01,Vendas
+Windows,10.0.0.151,desktop02,Vendas
+Microsoft Office,10.0.0.151,desktop02,Vendas
+Chromium,10.0.0.151,desktop02,Vendas
+Firefox,10.0.0.151,desktop02,Vendas
+Microsoft Office,10.0.0.151,desktop02,Vendas
+Windows,10.0.0.152,desktop04,Vendas
+Chromium,10.0.0.152,desktop04,Vendas
+Firefox,10.0.0.152,desktop04,Vendas
+Chrome,10.0.0.152,desktop04,Vendas
+Microsoft Office,10.0.0.152,desktop04,Vendas
+F5 BIG-IP,172.16.0.1,fw.fakecomp.com,TI
+Apache HTTP Server,172.16.0.21,www.fakecomp.com,TI
+Firefox,10.0.0.152,desktop04,Vendas
+UnRAR,192.168.1.12,desktop20,Laboratório
+Chrome,192.168.1.12,desktop20,Laboratório
+Solarwinds nServ-U,192.168.1.12,desktop20,Laboratório
+Apache CouchDB,192.168.2.200,db01,Segurança Cibernética
+Atlassian Confluence,192.168.2.190,project-02,Segurança Cibernética
+Zabbix,192.168.2.2,monitoring-01,Segurança Cibernética
+Zimbra Webmail,192.168.1.55,mail.lab.fakecomp.com,Laboratório
+macOS,192.168.1.15,research01,Laboratório
+macOS,192.168.1.16,research02,Laboratório
+macOS,192.168.1.17,research03,Laboratório
+macOS,192.168.1.18,research04,Laboratório
+macOS,192.168.1.19,research05,Laboratório
+macOS,192.168.1.20,research06,Laboratório
+Sophos Firewall,192.168.2.1,fw01,Segurança Cibernética
+Palo Alto,192.168.2.13,fw02,Segurança Cibernética
+Kibana,192.168.2.15,soar,Segurança Cibernética
+vCenter Server,192.168.2.16,virt-01,Segurança Cibernética
+Excel,10.0.0.240,desktop50,Vendas
+Excel,10.0.0.241,desktop51,Vendas
+Excel,10.0.0.242,desktop52,Vendas
+Excel,10.0.0.243,desktop53,Vendas
+Excel,10.0.0.244,desktop54,Vendas
+PHP,192.168.7.2,webapp01,Desenvolvimento
+Java,192.168.7.2,webapp01,Desenvolvimento
+Grafana,192.168.7.1,webmonitoring01,Desenvolvimento
+Sudo,10.30.4.1,bkp-srv01,TI
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+Tomcat,192.168.7.30,webapp02,Desenvolvimento
+Tomcat,192.168.7.31,webapp03,Desenvolvimento
+Drupal,192.168.7.35,webapp07,Desenvolvimento
+Office,192.168.7.31,dp01,RH
+Office,192.168.7.32,dp02,RH
+Office,192.168.7.33,dp03,RH
+Office,192.168.7.34,dp04,RH
+Chrome,192.168.7.34,dp04,RH
+Windows,192.168.7.34,dp04,RH
+Windows,192.168.7.33,dp03,RH
+Windows,192.168.7.32,dp02,RH
+Windows,192.168.7.31,dp01,RH
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+Pulse Connect Secure,10.30.2.1,vpn-srv,TI
+ESXi,10.30.2.200,virt-02,TI
